@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI 계산기</string>
+    <string name="user_name">성명</string>
+    <string name="user_weight">체중</string>
+    <string name="user_height">키</string>
+    <string name="calculate_bmi">계산</string>
+    <string name="notice">체중, 키는 숫자로만 입력하세요.</string>
+</resources>

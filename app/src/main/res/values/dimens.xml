@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize_small">15sp</dimen>
+    <dimen name="textSize_medium">20sp</dimen>
+    <dimen name="textSize_large">30sp</dimen>
+    <dimen name="textSize_xlarge">40sp</dimen>
+
+    <dimen name="layoutPadding_normal">250dp</dimen>
+    <dimen name="layoutPadding_large">500dp</dimen>
+
+    <dimen name="margin_xSmall">10dp</dimen>
+    <dimen name="margin_small">20dp</dimen>
+    <dimen name="margin_medium">30dp</dimen>
+    <dimen name="margin_large">40dp</dimen>
+    <dimen name="margin_xLarge">50dp</dimen>
+</resources>
